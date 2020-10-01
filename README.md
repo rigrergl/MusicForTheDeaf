@@ -1,7 +1,5 @@
 # MusicForTheDeaf
-Senior Year Engineering Project
-
-Won First Place across the Frisco Independent School District.
+Senior Year Engineering Project. Won First Place across the Frisco Independent School District.
 
 Project Presenation: https://drive.google.com/file/d/11CoXH_Zhjf8enc6HoF5-8pyNiiSgRhct/view?usp=sharing
 
